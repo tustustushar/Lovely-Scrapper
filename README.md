@@ -57,8 +57,10 @@ ls
 
 Installation done!!!
 
-Now run script by typing "python setup.py"
-
+Now run script by typing
+```shell script
+python setup.py
+```
 For members adding use
 
 Last step
