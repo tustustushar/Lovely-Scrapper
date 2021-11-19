@@ -9,32 +9,58 @@ For Installation Of Script
 
 First Open Termux App
 
-1) `apt update && apt upgrade`
+Step 1
+```shell script
+apt update && apt upgrade
+```
+Step 2
+```shell script
+pkg install -y git python
+```
+Step 3
+```shell script
+pkg update && pkg upgrade
+```
+Step 4
+```shell script
+pkg install python git
+```
+Step 5
+```shell script
+git clone https://github.com/attitudeking1/Lovely-Scrapper.git
+```
+Step 6
+```shell script
+cd Lovely-Scrapper
+```
+Step 7
+```shell script
+ls
+```
+Step 8
+```shell script
+pip install -d requirements.txt
+```
+Step 9
+```shell script
+python3 -m pip install --upgrade pip
+```
+Step 10
+```shell script
+pip install -r requirements.txt
+```
 
-2) `pkg install -y git python`
-
-3) `pkg update && pkg upgrade`
-
-4) `pkg install python git`
-
-5) `git clone https://github.com/attitudeking1/Lovely-Scrapper.git`
-
-6) `cd Lovely-Scrapper`
-
-7) `ls`
-
-8) `pip install -d requirements.txt`
-
-9) `python3 -m pip install --upgrade pip`
-
-10 `pip install -r requirements.txt`
-
-11) `ls`
+Step 11
+```shell script
+ls
+```
 
 Installation done!!!
 
 Now run script by typing "python setup.py"
 
 For members adding use 
-
-`python add.py`
+Last step
+```shell script
+python add.py
+```
