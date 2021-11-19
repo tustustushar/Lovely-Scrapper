@@ -59,7 +59,8 @@ Installation done!!!
 
 Now run script by typing "python setup.py"
 
-For members adding use 
+For members adding use
+
 Last step
 ```shell script
 python add.py
