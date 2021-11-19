@@ -9,7 +9,7 @@ For Installation Of Script
 
 First Open Termux App
 
-1) 'apt update && apt upgrade'
+1) apt update && apt upgrade
 
 2) pkg install -y git python
 
@@ -17,7 +17,7 @@ First Open Termux App
 
 4) pkg install python git
 
-5) 'git clone https://github.com/attitudeking1/Lovely-Scrapper.git'
+5) git clone https://github.com/attitudeking1/Lovely-Scrapper.git
 
 6) cd Lovely-Scrapper
 
