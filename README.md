@@ -37,4 +37,4 @@ Now run script by typing "python setup.py"
 
 For members adding use 
 
-"`python add.py`"
+`python add.py`
